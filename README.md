@@ -91,7 +91,7 @@ Abrir el notebook `examen_bike_sharing.ipynb` en VS Code o Jupyter y ejecutar to
 
 ## Video de presentación
 
-**Enlace:** PENDIENTE: 
+**Enlace:** [Ver video de presentación](https://drive.google.com/file/d/1Qh8Vqkya4Ud2TzXBeAn4WNK0nrV69Lt-/view?usp=sharing)
 
 ## Declaración de uso de inteligencia artificial
 
